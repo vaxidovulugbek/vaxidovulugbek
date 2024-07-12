@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript,React...
 - 💬 Ask me about JavaScript, React, Bloc, Provider, Hive
-- ⚡️ Fun fact I am very HAPPY :) <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">
+- ⚡️ Fun fact:) <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">
 
 <h3 align="center"> A Frontend developer from Uzbekistan</h3>
 
