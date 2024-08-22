@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">### Hi there <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> I'm Ulug'bek</h1>
 
-
-- 🌱 I’m currently learning JavaScript,React...
+- 💻 Core Stack: **JS/React**. Mainly focused on Frontend.
+- 🔥 Interested in Blockchain & DeFi
 - 💬 Ask me about JavaScript, React, Bloc, Provider, Hive
 - ⚡️ Fun fact:) <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">
 
