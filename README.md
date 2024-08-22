@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3> A Frontend developer from Uzbekistan</h3>
+
 - 💻 Core Stack: **JS/React**. Mainly focused on Frontend.
 - 🔥 Interested in Blockchain & DeFi
 - 💬 Ask me about JavaScript, React, NextJS
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaxidovulugbek&show_icons=true&hide_title=true" alt="vaxidovulugbek" /></p>
 
+<div>
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://linkedin.com/in/ulugbek-vaxidov-95a16b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
