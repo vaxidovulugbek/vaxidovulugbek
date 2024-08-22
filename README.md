@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Ulug'bek</h1>
 
 - 💻 Core Stack: **JS/React**. Mainly focused on Frontend.
 - 🔥 Interested in Blockchain & DeFi
