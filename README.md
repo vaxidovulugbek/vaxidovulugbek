@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">### Hi there <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> I'm Ulug'bek</h1>
+<h1>### vaxidovulugbek</h1>
 
 - 💻 Core Stack: **JS/React**. Mainly focused on Frontend.
 - 🔥 Interested in Blockchain & DeFi
-- 💬 Ask me about JavaScript, React, Bloc, Provider, Hive
-- ⚡️ Fun fact:) <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">
+- 💬 Ask me about JavaScript, React, NextJS
 
 <h3 align="center"> A Frontend developer from Uzbekistan</h3>
 
