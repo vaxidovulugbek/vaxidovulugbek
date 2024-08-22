@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💻 Core Stack: **JS/React**. Mainly focused on Frontend.
 - 🔥 Interested in Blockchain & DeFi
 - 💬 Ask me about JavaScript, React, NextJS
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaxidovulugbek&show_icons=true&hide_title=true" alt="vaxidovulugbek" /></p>
+<p align="right">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaxidovulugbek&show_icons=true&hide_title=true" alt="vaxidovulugbek" /></p>
 
 <h3 align="center"> A Frontend developer from Uzbekistan</h3>
 
